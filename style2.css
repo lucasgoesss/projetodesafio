@@ -1,0 +1,44 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  text-align: center;
+  margin: 0;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+#hero img {
+width: 350px;
+height: 238px;;
+margin-top: 64px;;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  line-height: 56px;
+  font-weight: normal;
+  
+
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: lighter;
+}
+
+span {
+  color: #c216b0;
+}
+
+p {
+  color: #7D7987;
+
+  font-size: 15px;
+  line-height: 22px;
+  width: 540px;
+  
+}
